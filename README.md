@@ -14,22 +14,22 @@ The project implements:
 <h3 align="center">📸 Project Preview</h3>
 
 <p align="center">
-  <img src="./src/assets/1.png" alt="Preview 1" width="650"/><br/>
+  <img src="./src/assets/1.png" alt="Preview 1" width="450"/><br/>
   <em>Main page with meals fetched from backend API</em>
 </p>
 
 <p align="center">
-  <img src="./src/assets/2.png" alt="Preview 2" width="650"/><br/>
+  <img src="./src/assets/2.png" alt="Preview 2" width="450"/><br/>
   <em>Cart modal displaying selected meals</em>
 </p>
 
 <p align="center">
-  <img src="./src/assets/3.png" alt="Preview 3" width="650"/><br/>
+  <img src="./src/assets/3.png" alt="Preview 3" width="450"/><br/>
   <em>Checkout form using React form actions and async request handling</em>
 </p>
 
 <p align="center">
-  <img src="./src/assets/4.png" alt="Preview 4" width="650"/><br/>
+  <img src="./src/assets/4.png" alt="Preview 4" width="450"/><br/>
   <em>Successful order confirmation modal</em>
 </p>
 
