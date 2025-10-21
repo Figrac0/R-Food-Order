@@ -22,6 +22,7 @@ body {
 }
 
 #main-header #title {
+    margin-right: 200px;
     display: flex;
     gap: 1rem;
     align-items: center;
